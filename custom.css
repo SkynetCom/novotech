@@ -9,6 +9,8 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; line-height: 1.5; }
 .block-related .block-title h3 span, .box-up-sell .block-title h3 span, .crosssell h3 span, .alo-brands .item span, .block-title-tabs span, .magictabs .item .title, .block .block-title strong span, .testimonials h3 span, .account-login .content h2 { font-family: Raleway; }
 
 /**/
+
+/**/
 .level0.home { display: none !important; }
 .magicmenu .nav-desktop .level0.active .level-top span.cat_label { position: absolute; top: -20px; right: -25px; }
 .magicmenu .nav-desktop .level0.active .level-top span::before { left: -8px; border-bottom: 0; }
@@ -80,12 +82,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 .selected-products .item .hidelayer .acciones i:hover, .selected-products .item .hidelayer .acciones i:focus { color: #fff; background: #EF5300; border: 1px solid #EF5300; text-decoration: none; }
 .products-block .item div.Promociones { font-size: 12px; line-height: 16px; }
 .products-block .item div.Promociones span { font-size: 12px; line-height: 16px; }
- 
-
-.product-view .Promociones img.gridview,
-.products-grid .Promociones img.detailview,
-.products-list .Promociones img.detailview,
-.products-list a.link-compare {display:none!important;}
+.product-view .Promociones img.gridview, .products-grid .Promociones img.detailview, .products-list .Promociones img.detailview, .products-list a.link-compare { display: none !important; }
 
 /**/
 .bx-wrapper .bx-pager.bx-default-pager a { background: #ddd; }
@@ -108,8 +105,8 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 	.mean-container .mean-bar { margin-top: 30px; }
 	.header-right-container { margin-top: 43px; }
 	.header .logo, .header .logo .logo1 { max-width: 200px; padding: 30px 0; }
-	.magicmenu .nav-desktop .level0 .level-top-mega {top: 65px; left: 0 !important;padding:10px 25px 10px 10px;}
-	.magicmenu .nav-desktop .level0:hover .level-top-mega { opacity: 1; top: 55px; left: 0 !important; visibility: visible; padding: 0; padding:10px 25px 10px 10px;}
+	.magicmenu .nav-desktop .level0 .level-top-mega { top: 65px; left: 0 !important; padding: 10px 25px 10px 10px; }
+	.magicmenu .nav-desktop .level0:hover .level-top-mega { opacity: 1; top: 55px; left: 0 !important; visibility: visible; padding: 0; padding: 10px 25px 10px 10px; }
 	.magicmenu .nav-desktop .level0 .level-top-mega .mage-column .children { float: none; text-align: left; padding: 0; width: 175px; display: block; text-align: center; }
 	.magicmenu .nav-desktop .level0 .level-top-mega .children.level1 > a { padding: 0 30px; margin: 10px 0; }
 	.magicmenu .nav-desktop .level0 .level-top-mega .children.level1 > a:before { content: ""; position: absolute; left: 0; bottom: -5px; background-color: white; height: 1px; width: 60px; }
