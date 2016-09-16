@@ -108,8 +108,8 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 	.mean-container .mean-bar { margin-top: 30px; }
 	.header-right-container { margin-top: 43px; }
 	.header .logo, .header .logo .logo1 { max-width: 200px; padding: 30px 0; }
-	.magicmenu .nav-desktop .level0 .level-top-mega {top: 65px; left: 0 !important;padding:10px 20px 20px 10px;}
-	.magicmenu .nav-desktop .level0:hover .level-top-mega { opacity: 1; top: 55px; left: 0 !important; visibility: visible; padding: 0; padding:10px 20px 20px 10px;}
+	.magicmenu .nav-desktop .level0 .level-top-mega {top: 65px; left: 0 !important;padding:10px 25px 10px 10px;}
+	.magicmenu .nav-desktop .level0:hover .level-top-mega { opacity: 1; top: 55px; left: 0 !important; visibility: visible; padding: 0; padding:10px 25px 10px 10px;}
 	.magicmenu .nav-desktop .level0 .level-top-mega .mage-column .children { float: none; text-align: left; padding: 0; width: 175px; display: block; text-align: center; }
 	.magicmenu .nav-desktop .level0 .level-top-mega .children.level1 > a { padding: 0 30px; margin: 10px 0; }
 	.magicmenu .nav-desktop .level0 .level-top-mega .children.level1 > a:before { content: ""; position: absolute; left: 0; bottom: -5px; background-color: white; height: 1px; width: 60px; }
