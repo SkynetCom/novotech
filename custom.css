@@ -47,6 +47,14 @@ a.btn:hover { background: #333; color: #fff; }
 .policy img { max-width: 100%; width: 100%; }
 
 /**/
+.blog-img { width: 15%; margin-right: 25px; display: block; float: left; }
+.blog-head.post-date .number span, .postDetails span.user, .blog_text .read-more-blog:hover { color: #ef5300; }
+.postContent .aw-blog-read-more:hover { background-color: #ef5300; color: #fff; border: 1px solid #ef5300; }
+.blog_short_text { padding: 40px 0 0 30px; }
+.blog_short_text a span { font-size: 20px; display: block; text-transform: uppercase; line-height: 25px; letter-spacing: 1px; font-weight: bold; }
+.al-style-2:before { background-color: #ef5300; }
+
+/**/
 .fieldset { border: none; background: #fff; padding: 0; margin: 28px 0; }
 .fieldset .legend { display: none; }
 .std ul { list-style: none; padding-left: 0; }
