@@ -149,7 +149,13 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 /**/
 .sc-macbooks h1 { font-size: 50px; line-height: 1; }
 .sc-macbooks .section-more { margin: 10px 0; display: block; padding: 10px 0; }
-.sc-macbooks .section-text { z-index: 4; }
+.sc-macbooks .section-text { z-index: 4; text-align: left; }
+@media only screen and (max-width:735px) {
+	.sc-macbooks h1 { font-size: 30px; line-height: 1; margin-top: 30px; }
+	.sc-macbooks h2 { font-size: 20px; line-height: 1; }
+	.sc-macbooks .section-text { text-align: center }
+	.sc-macbook a.btn { font-size: 10px; }
+}
 
 /**/
 .sc-macbook { padding-top: 405px; padding-bottom: 375px; position: relative; z-index: 2 }
@@ -176,7 +182,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 	.sc-macbook .image-macbook { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_small_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.sc-macbook .image-macbook { left: -22px; top: -220px }
+	.sc-macbook .image-macbook { left: -22px; top: 30px; }
 }
 @media only screen and (max-width:735px) {
 	.sc-macbook .image-macbook { position: static; margin-top: 50px; margin-left: auto; margin-right: auto }
