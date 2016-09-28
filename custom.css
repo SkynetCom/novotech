@@ -182,3 +182,32 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 }
 
 /**/
+.sc-macbook-pro { position: relative; z-index: 1; padding-top: 255px; padding-bottom: 245px }
+@media only screen and (max-width:1068px) {
+	.sc-macbook-pro { padding-top: 135px; padding-bottom: 105px }
+}
+@media only screen and (max-width:735px) {
+	.sc-macbook-pro { padding-top: 57px; padding-bottom: 0 }
+}
+.sc-macbook-pro .image-macbookpro { width: 979px; height: 523px; background-size: 979px 523px; background-repeat: no-repeat; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_large.jpg"); position: absolute; top: -123px; left: 188px }
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.sc-macbook-pro .image-macbookpro { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_large_2x.jpg") }
+}
+@media only screen and (max-width:1068px) {
+	.sc-macbook-pro .image-macbookpro { width: 712px; height: 380px; background-size: 712px 380px; background-repeat: no-repeat; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_medium.jpg") }
+}
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.sc-macbook-pro .image-macbookpro { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_medium_2x.jpg") }
+}
+@media only screen and (max-width:735px) {
+	.sc-macbook-pro .image-macbookpro { width: 322px; height: 172px; background-size: 322px 172px; background-repeat: no-repeat; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_small.jpg") }
+}
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.sc-macbook-pro .image-macbookpro { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_small_2x.jpg") }
+}
+@media only screen and (max-width:1068px) {
+	.sc-macbook-pro .image-macbookpro { top: -93px; left: 68px }
+}
+@media only screen and (max-width:735px) {
+	.sc-macbook-pro .image-macbookpro { position: static; margin: 20px auto 0 }
+}
