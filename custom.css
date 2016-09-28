@@ -38,6 +38,8 @@ ul.magicbrand > li > a img { margin: 0 auto !important; max-width: 95%; }
 p.cart-tolatl { margin: 0; }
 a.btn { margin-bottom: 25px; text-transform: uppercase; border: 2px solid #333; padding: 8px 20px; transition: all 0.7s; background: #fff; }
 a.btn:hover { background: #333; color: #fff; }
+a.btn-naranja { border: 2px solid #ef5300; background: #ef5300; }
+a.btn-naranja:hover { background: #333; color: #fff; }
 .product-sku p { color: #666; }
 .product-view .product-shop .short-description { padding-top: 0px; }
 .product-view .product-shop .price-box { display: block; }
