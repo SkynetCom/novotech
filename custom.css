@@ -256,7 +256,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 .sc-inside-macbook p { font-size: 18px; color: #333 }
 
 /**/
-.image-macbook-hero { background-repeat: no-repeat; background-size: 2560px 1183px; background-position: center center; height: 600; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large.jpg") }
+.image-macbook-hero { background-repeat: no-repeat; background-size: contain; background-position: center center; height: 600px; margin: 30px 0; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-macbook-hero { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large_2x.jpg") }
 }
