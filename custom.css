@@ -262,7 +262,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 	.image-macbook-hero { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-macbook-hero { background-size: 1068px 783px; height: 783px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_medium.jpg") }
+	.image-macbook-hero { background-size: contain; height: 583px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-macbook-hero { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_medium_2x.jpg") }
@@ -358,7 +358,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 	.image-design-port { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-design-port { background-size: 736px 348px; height: 348px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_small.jpg") }
+	.image-design-port { background-size: cover; background-position: 25% center; height: 348px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-design-port { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_small_2x.jpg") }
