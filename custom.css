@@ -381,3 +381,21 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-internals-layer-start { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_small_2x.jpg") }
 }
+
+/**/
+.image-battery { background-repeat: no-repeat; background-size: 2204px 575px; height: 575px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_battery_large.jpg") }
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
+	.image-battery { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_battery_large_2x.jpg") }
+}
+@media only screen and (max-width:1068px) {
+	.image-battery { background-size: 1327px 346px; height: 346px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_battery_medium.jpg") }
+}
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
+	.image-battery { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_battery_medium_2x.jpg") }
+}
+@media only screen and (max-width:735px) and (max-device-width:768px) {
+	.image-battery { background-size: 736px 348px; height: 348px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_battery_small.jpg") }
+}
+@media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
+	.image-battery { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_battery_small_2x.jpg") }
+}
