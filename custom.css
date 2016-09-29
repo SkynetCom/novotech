@@ -293,7 +293,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 }
 
 /**/
-.image-retina { background-repeat: no-repeat; background-size: 1815px 640px; height: 640px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_large.jpg") }
+.image-retina { background-repeat: no-repeat; background-size: contain; background-position: center; height: 440px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-retina { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_large_2x.jpg") }
 }
@@ -365,7 +365,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 }
 
 /**/
-.image-internals-layer-start { background-repeat: no-repeat; background-size: 1018px 711px; height: 711px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_large.jpg") }
+.image-internals-layer-start { background-repeat: no-repeat; background-size: contain; background-position: center center; height: 811px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-internals-layer-start { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_large_2x.jpg") }
 }
