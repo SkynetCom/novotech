@@ -211,7 +211,6 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 }
 @media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
 	.sc-macbook-pro .image-macbookpro { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook-pro/mbpr_small_2x.jpg") }
-	// .sc-macbook-pro .section-img { position: relative; }
 }
 @media only screen and (max-width:1068px) {
 	.sc-macbook-pro .image-macbookpro { top: 80px; left: 80px }
@@ -250,6 +249,11 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 @media only screen and (max-width:735px) {
 	.sc-macbook-air .image-macbookair { position: static; margin: 12px auto 0 }
 }
+
+/**/
+.sc-inside-macbook { padding: 30px 0; }
+.sc-inside-macbook h1 { margin-top: 20px; }
+.sc-inside-macbook p { font-size: 18px; color: #333 }
 
 /**/
 .image-macbook-hero { background-repeat: no-repeat; background-size: 2560px 1183px; background-position: center center; height: 600; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large.jpg") }
