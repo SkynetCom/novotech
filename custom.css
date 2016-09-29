@@ -257,7 +257,7 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 .sc-inside-macbook figure { margin: 30px 0 }
 
 /**/
-.image-macbook-hero { background-repeat: no-repeat; background-size: contain; background-position: center center; height: 600px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large.jpg") }
+.image-macbook-hero { background-repeat: no-repeat; background-size: contain; background-position: center center; height: 844px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-macbook-hero { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/macbook_large_2x.jpg") }
 }
@@ -275,108 +275,108 @@ div.Promociones span.PreciosCuotas { font-weight: bold; }
 }
 
 /**/
-.image-colors { background-repeat: no-repeat; background-size: 2560px 1183px; background-position: center center; height: 600; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_large.jpg") }
+.image-colors { background-repeat: no-repeat; background-size: 2560px 1183px; background-position: center center; height: 600px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-colors { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-colors { background-size: 1068px 783px; height: 450px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_medium.jpg") }
+	.image-colors { background-size: 1068px 783px; height: 783px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-colors { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-colors { background-size: 736px 456px; height: 400px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_small.jpg") }
+	.image-colors { background-size: 736px 456px; height: 456px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-colors { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_colors_small_2x.jpg") }
 }
 
 /**/
-.image-retina { background-repeat: no-repeat; background-size: 1815px 640px; height: 640px; width: 1815px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_large.jpg") }
+.image-retina { background-repeat: no-repeat; background-size: 1815px 640px; height: 640px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-retina { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-retina { background-size: 1068px 481px; height: 481px; width: 1068px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_medium.jpg") }
+	.image-retina { background-size: 1068px 481px; height: 481px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-retina { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-retina { background-size: 668px 240px; height: 240px; width: 668px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_small.jpg") }
+	.image-retina { background-size: 668px 240px; height: 240px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-retina { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_retina_small_2x.jpg") }
 }
 
 /**/
-.image-keyboard-on { background-repeat: no-repeat; background-size: 1125px 681px; height: 681px; width: 1125px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_large.jpg") }
+.image-keyboard-on { background-repeat: no-repeat; background-size: 1125px 681px; height: 681px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-keyboard-on { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-keyboard-on { background-size: 707px 428px; height: 428px; width: 707px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_medium.jpg") }
+	.image-keyboard-on { background-size: 707px 428px; height: 428px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-keyboard-on { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-keyboard-on { background-size: 307px 186px; height: 186px; width: 307px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_small.jpg") }
+	.image-keyboard-on { background-size: 307px 186px; height: 186px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-keyboard-on { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_keyboard_on_small_2x.jpg") }
 }
 
 /**/
-.image-wireless { background-repeat: no-repeat; background-size: 977px 845px; height: 845px; width: 977px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_large.jpg") }
+.image-wireless { background-repeat: no-repeat; background-size: 977px 845px; height: 845px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-wireless { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-wireless { background-size: 656px 591px; height: 591px; width: 656px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_medium.jpg") }
+	.image-wireless { background-size: 656px 591px; height: 591px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-wireless { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-wireless { background-size: 440px 319px; height: 319px; width: 440px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_small.jpg") }
+	.image-wireless { background-size: 440px 319px; height: 319px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-wireless { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/overview_wireless_small_2x.jpg") }
 }
 
 /**/
-.image-design-port { background-repeat: no-repeat; background-size: 2204px 575px; height: 575px; width: 2204px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_large.jpg") }
+.image-design-port { background-repeat: no-repeat; background-size: 2204px 575px; height: 575px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-design-port { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-design-port { background-size: 1327px 346px; height: 346px; width: 1327px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_medium.jpg") }
+	.image-design-port { background-size: 1327px 346px; height: 346px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-design-port { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-design-port { background-size: 736px 348px; height: 348px; width: 736px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_small.jpg") }
+	.image-design-port { background-size: 736px 348px; height: 348px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-design-port { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/design_port_small_2x.jpg") }
 }
 
 /**/
-.image-internals-layer-start { background-repeat: no-repeat; background-size: 1018px 711px; height: 711px; width: 1018px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_large.jpg") }
+.image-internals-layer-start { background-repeat: no-repeat; background-size: 1018px 711px; height: 711px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_large.jpg") }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi), (-webkit-min-device-pixel-ratio:144), (min-resolution:144dppx) {
 	.image-internals-layer-start { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_large_2x.jpg") }
 }
 @media only screen and (max-width:1068px) {
-	.image-internals-layer-start { background-size: 725px 507px; height: 507px; width: 725px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_medium.jpg") }
+	.image-internals-layer-start { background-size: 725px 507px; height: 507px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_medium.jpg") }
 }
 @media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:144dpi), only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:1068px) and (min-resolution:144dppx) {
 	.image-internals-layer-start { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_medium_2x.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) {
-	.image-internals-layer-start { background-size: 298px 208px; height: 208px; width: 298px; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_small.jpg") }
+	.image-internals-layer-start { background-size: 298px 208px; height: 208px; width: 100%; background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_small.jpg") }
 }
 @media only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dpi), only screen and (max-width:735px) and (max-device-width:768px) and (-webkit-min-device-pixel-ratio:144), only screen and (max-width:735px) and (max-device-width:768px) and (min-resolution:144dppx) {
 	.image-internals-layer-start { background-image: url("http://novotech.skynetcom.com.ar/media/wysiwyg/novotech/hotsites/macbooks/macbook/internals_layer_start_small_2x.jpg") }
